@@ -1,0 +1,15 @@
+{
+    "require": {
+        "drupal/amazons3": "7.2.*",
+        "drupal/awssdk": "7.5.*",
+        "drupal/backup_migrate": "7.3.*",
+        "drupal/ctools": "7.1.*",
+        "drupal/civicrm": "7.4.*",
+        "drupal/composer_manager": "7.1.*",
+        "drupal/entity": "7.1.*",
+        "drupal/libraries": "7.2.*",
+        "drupal/rules": "7.2.*",
+        "drupal/views": "7.3.*",
+        "drupal/composer_vendor": "7.*"
+    }
+}
